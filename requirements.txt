@@ -1,4 +1,5 @@
-Flask
-pandas
-requests
-gunicorn
+Flask>=2.3,<4
+pandas>=2.0
+requests>=2.31
+gunicorn>=21.2
+openpyxl>=3.1
